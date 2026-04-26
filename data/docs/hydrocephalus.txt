@@ -1,0 +1,45 @@
+# docs/hydrocephalus.txt
+
+Title: Hydrocephalus
+
+Definition:
+Hydrocephalus is abnormal accumulation of cerebrospinal fluid causing enlargement of the ventricular system.
+
+Types:
+
+* Obstructive (non-communicating)
+* Communicating
+* Normal pressure hydrocephalus
+
+Common Symptoms:
+
+* Headache
+* Nausea
+* Gait disturbance
+* Cognitive decline
+* Urinary symptoms
+* Decreased consciousness in severe cases
+
+Imaging Findings:
+
+* Enlarged ventricles
+* Transependymal CSF flow may be seen
+* Periventricular signal changes
+* Possible obstructing mass or stenosis
+
+Common Causes:
+
+* Tumor
+* Hemorrhage
+* Infection
+* Congenital obstruction
+* Post-surgical changes
+
+Treatment:
+
+* CSF diversion such as shunt
+* Endoscopic third ventriculostomy in selected patients
+* Treat underlying cause
+
+Clinical Note:
+Acute hydrocephalus may be urgent.

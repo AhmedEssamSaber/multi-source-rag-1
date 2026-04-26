@@ -1,0 +1,45 @@
+# docs/pituitary_adenoma.txt
+
+Title: Pituitary Adenoma
+
+Definition:
+Pituitary adenoma is a tumor arising from the pituitary gland. Many are benign.
+
+Types:
+
+* Microadenoma: less than 10 mm
+* Macroadenoma: 10 mm or larger
+* Functioning tumors: secrete hormones
+* Nonfunctioning tumors
+
+Common Symptoms:
+
+* Headache
+* Visual field defects
+* Hormonal imbalance
+* Menstrual changes
+* Galactorrhea
+* Fatigue
+
+MRI Findings:
+
+* Sellar or suprasellar mass
+* Enlargement of pituitary gland
+* Contrast enhancement variable
+* Optic chiasm compression in macroadenoma
+* Cavernous sinus invasion may occur
+
+Differential Diagnosis:
+
+* Rathke cleft cyst
+* Craniopharyngioma
+* Meningioma in sellar region
+
+Treatment:
+
+* Medical therapy for some hormone-secreting tumors
+* Surgery
+* Radiation in selected cases
+
+Prognosis:
+Often favorable with proper endocrine and neurosurgical management.

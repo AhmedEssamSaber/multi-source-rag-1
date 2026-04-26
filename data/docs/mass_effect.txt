@@ -1,0 +1,37 @@
+# docs/mass_effect.txt
+
+Title: Mass Effect
+
+Definition:
+Mass effect means pressure exerted by a lesion on adjacent brain structures.
+
+Common Causes:
+
+* Tumor
+* Hemorrhage
+* Edema
+* Abscess
+* Large infarction
+
+Imaging Findings:
+
+* Compression of nearby brain tissue
+* Ventricular compression
+* Sulcal effacement
+* Midline shift
+* Herniation risk in severe cases
+
+Clinical Symptoms:
+
+* Headache
+* Vomiting
+* Focal neurological deficits
+* Reduced consciousness
+* Seizures
+
+Severity:
+Ranges from mild displacement to life-threatening herniation.
+
+Management:
+Treatment depends on cause and urgency.
+Examples include surgery, steroids, drainage, or critical care support.

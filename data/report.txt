@@ -1,0 +1,12 @@
+Report:
+TECHNIQUE:
+MRI Brain Tumor.
+FINDINGS:
+A large enhancing mass is seen in the left frontal lobe.
+It shows significant edema due to intracranial hydrostatic shift.
+There is mild mass effect on the adjacent parietal lobes.
+No hyperostosis.
+IMPRESSION:
+Left frontal high-grade meningioma.
+Unlikely candidate for intracranial spinous tilt.
+Enhancing contrast overcomes imaging artifact but limits clinical utility.

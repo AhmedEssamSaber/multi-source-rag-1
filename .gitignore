@@ -1,0 +1,14 @@
+# API keys — NEVER commit these
+.env
+.streamlit/secrets.toml
+
+# Cache
+data/vector_store_cache.pkl
+data/uploads/*
+!data/uploads/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store

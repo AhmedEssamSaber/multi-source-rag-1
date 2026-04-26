@@ -1,0 +1,52 @@
+# docs/glioma.txt
+
+Title: Glioma
+
+Definition:
+Glioma is a tumor arising from glial cells in the brain. It includes astrocytoma, oligodendroglioma, and glioblastoma.
+
+Behavior:
+Gliomas range from lower-grade slower tumors to highly aggressive malignant tumors.
+
+Common Symptoms:
+
+* Headache
+* Seizures
+* Weakness
+* Speech difficulty
+* Cognitive decline
+* Visual symptoms depending on location
+
+MRI Findings:
+
+* Intra-axial brain mass
+* T2/FLAIR hyperintensity common
+* Variable contrast enhancement
+* Surrounding edema may be present
+* Necrosis may be seen in high-grade tumors
+* Infiltrative margins may occur
+
+High-Grade Features:
+
+* Ring or irregular enhancement
+* Necrosis
+* Rapid growth
+* Significant edema
+* Mass effect
+
+Differential Diagnosis:
+
+* Metastasis
+* Abscess
+* Lymphoma
+* Demyelinating lesion
+
+Treatment:
+
+* Surgery when feasible
+* Radiation therapy
+* Chemotherapy
+* Molecular-guided treatment in selected cases
+
+Prognosis:
+Depends on tumor grade, subtype, molecular profile, and extent of resection.

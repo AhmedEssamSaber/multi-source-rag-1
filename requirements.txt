@@ -1,0 +1,8 @@
+cohere
+groq
+numpy
+python-dotenv
+fastapi
+uvicorn
+faiss-cpu
+streamlit

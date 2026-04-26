@@ -1,0 +1,62 @@
+# docs/meningioma.txt
+
+Title: Meningioma
+
+Definition:
+Meningioma is an extra-axial tumor arising from arachnoid cap cells of the meninges. It is one of the most common tumors involving the meninges.
+
+Typical Behavior:
+Many meningiomas are slow growing and benign, but some higher-grade forms are more aggressive.
+
+Epidemiology:
+
+* More common in women
+* Usually diagnosed in adults
+* May be associated with prior radiation or neurofibromatosis type 2
+
+Common Symptoms:
+
+* Headache
+* Seizures
+* Weakness
+* Vision problems
+* Personality or cognitive changes
+* May be asymptomatic if small
+
+MRI Findings:
+
+* Extra-axial dural-based mass
+* Broad dural attachment
+* Strong homogeneous enhancement
+* Dural tail may be present
+* Adjacent vasogenic edema may occur
+* Mass effect possible
+
+CT Findings:
+
+* Hyperdense lesion may be seen
+* Calcification possible
+* Hyperostosis may occur
+
+Common Locations:
+
+* Convexity
+* Parasagittal region
+* Sphenoid wing
+* Olfactory groove
+* Skull base
+
+Differential Diagnosis:
+
+* Dural metastasis
+* Solitary fibrous tumor
+* Schwannoma depending on location
+
+Treatment:
+
+* Observation in selected cases
+* Surgical resection
+* Radiation therapy in residual or recurrent disease
+
+Prognosis:
+Many grade 1 tumors have favorable outcomes. Higher grades carry greater recurrence risk.

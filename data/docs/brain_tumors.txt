@@ -1,0 +1,55 @@
+# docs/brain_tumors.txt
+
+Title: Brain Tumors
+
+Definition:
+Brain tumors are abnormal growths of cells داخل المخ أو الأنسجة المحيطة به. They may arise primarily from the brain or spread from cancers elsewhere in the body.
+
+Main Categories:
+
+* Primary brain tumors: originate in the brain or meninges.
+* Secondary (metastatic) tumors: spread from another cancer site.
+* Benign tumors: slower growth, less invasive.
+* Malignant tumors: faster growth, may infiltrate nearby tissue.
+
+Common Examples:
+
+* Meningioma
+* Glioma
+* Pituitary adenoma
+* Metastasis
+* Schwannoma
+
+Common Symptoms:
+
+* Headache
+* Seizures
+* Weakness or numbness
+* Vision changes
+* Balance problems
+* Memory or personality changes
+* Nausea or vomiting
+
+Diagnosis:
+MRI with contrast is commonly the best imaging study for characterization. CT may be used in emergency settings or to detect hemorrhage or calcification.
+
+Important Imaging Findings:
+
+* Mass lesion
+* Contrast enhancement
+* Edema
+* Mass effect
+* Midline shift
+* Hydrocephalus
+
+Treatment:
+Depends on tumor type, grade, size, location, and patient condition.
+
+* Observation
+* Surgery
+* Radiation therapy
+* Chemotherapy
+* Targeted therapy
+
+Clinical Note:
+Imaging suggests possibilities but final diagnosis may require pathology.

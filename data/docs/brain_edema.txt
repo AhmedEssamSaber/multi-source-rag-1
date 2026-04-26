@@ -1,0 +1,46 @@
+# docs/brain_edema.txt
+
+Title: Brain Edema
+
+Definition:
+Brain edema is swelling caused by excess fluid within brain tissue.
+
+Main Types:
+
+* Vasogenic edema: disruption of blood-brain barrier, common with tumors
+* Cytotoxic edema: cellular swelling, common with ischemia
+* Interstitial edema: related to hydrocephalus
+
+Common Causes:
+
+* Brain tumors
+* Stroke
+* Trauma
+* Infection
+* Hemorrhage
+
+Imaging Findings:
+
+* T2/FLAIR hyperintensity
+* White matter swelling
+* Sulcal effacement
+* Mass effect in severe cases
+
+Symptoms:
+
+* Headache
+* Nausea
+* Confusion
+* Weakness
+* Seizures
+* Reduced consciousness
+
+Treatment:
+
+* Treat underlying cause
+* Corticosteroids often used in tumor-related vasogenic edema
+* Osmotic therapy in selected emergencies
+* Surgical decompression in severe cases
+
+Clinical Note:
+Severe edema can become life-threatening due to raised intracranial pressure.
