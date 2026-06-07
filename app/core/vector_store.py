@@ -11,9 +11,7 @@ class VectorStore:
         self.index   = None # FAISS index (built after first add)
         self.dim     = None # embedding dimension
 
-    # ------------------------------------------------------------------
     # Add chunks + embeddings
-    # ------------------------------------------------------------------
 
     def add(self, chunks, embeddings, source="unknown"):
         vectors = np.array(embeddings, dtype=np.float32)
@@ -31,9 +29,7 @@ class VectorStore:
         for chunk in chunks:
             self.chunks.append({"chunk": chunk, "source": source})
 
-    # ------------------------------------------------------------------
     # Persistent cache
-    # ------------------------------------------------------------------
 
     def save(self, path=CACHE_FILE):
         cache = {
@@ -75,15 +71,13 @@ class VectorStore:
 
         return True
 
-    # ------------------------------------------------------------------
     # Search with optional forced sources
-    # ------------------------------------------------------------------
 
     def search(self, query_embedding, top_k=5, force_sources=None):
         if not self.chunks or self.index is None:
             return []
 
-        # --- Separate forced chunks first ---
+        # Separate forced chunks first
         forced_results  = []
         forced_indices  = set()
 
@@ -97,7 +91,7 @@ class VectorStore:
                         "score":  0.0   # will be filled below
                     })
 
-        # --- FAISS search across all chunks ---
+        # FAISS search across all chunks
         query_vec = np.array([query_embedding], dtype=np.float32)
         faiss.normalize_L2(query_vec)
 
@@ -112,7 +106,7 @@ class VectorStore:
             if i is not None and i in score_map:
                 r["score"] = round(score_map[i], 4)
 
-        # --- Fill remaining slots from FAISS results (skip forced) ---
+        # Fill remaining slots from FAISS results (skip forced)
         remaining_slots = top_k - len(forced_results)
         normal_results  = []
 

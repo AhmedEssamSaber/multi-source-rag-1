@@ -1,12 +1,15 @@
 Report:
+
 TECHNIQUE:
-MRI Brain Tumor.
+- Contrast MRI of the brain.
+
 FINDINGS:
-A large enhancing mass is seen in the left frontal lobe.
-It shows significant edema due to intracranial hydrostatic shift.
-There is mild mass effect on the adjacent parietal lobes.
-No hyperostosis.
+- A large extra-axial mass is seen in the left parietal region, extending superiorly into the occipital lobe.
+- It demonstrates significant contrast enhancement and creates an irregular mass effect on the adjacent cerebral structures.
+- There is mild compression of the left hemisphenoid.
+
 IMPRESSION:
-Left frontal high-grade meningioma.
-Unlikely candidate for intracranial spinous tilt.
-Enhancing contrast overcomes imaging artifact but limits clinical utility.
+- Left parietal mass with significant mass effect and compression.
+- No associated perilesional edema or hemorrhage.
+- Low-grade intracranial normal.
+- Diffuse mass effect without sign of hydrocephalus

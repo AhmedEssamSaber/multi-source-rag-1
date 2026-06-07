@@ -3,18 +3,18 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# ── Paths ──────────────────────────────────────────
+# Paths 
 DOCS_FOLDER  = "data/docs"
 REPORT_FILE  = "data/report.txt"
 CACHE_FILE   = "data/vector_store_cache.pkl"
 UPLOAD_FOLDER = "data/uploads"
 
-# ── Models ─────────────────────────────────────────
+# Models 
 COHERE_API_KEY = os.getenv("COHERE_API_KEY")
 GROQ_API_KEY   = os.getenv("GROQ_API_KEY")
 GROQ_MODEL     = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
 
-# ── RAG ────────────────────────────────────────────
+# RAG
 CHUNK_SIZE           = 400
 CHUNK_OVERLAP        = 100
 RETRIEVAL_TOP_K      = 8
@@ -22,7 +22,7 @@ RERANK_TOP_N         = 5
 CONFIDENCE_THRESHOLD = 0.0001
 MEMORY_MAX_TURNS     = 10
 
-# ── Prompts ────────────────────────────────────────
+# Prompts
 SYSTEM_PROMPT = (
     "You are a helpful medical assistant with access to "
     "medical documents and patient reports."
